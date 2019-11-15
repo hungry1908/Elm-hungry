@@ -1,0 +1,589 @@
+{
+  "type":[
+      {
+          "id":"001",
+          "name":"综合"
+      },{
+          "id":"002",
+          "name":"距离"
+      },{
+          "id":"003",
+          "name":"销量"
+      }
+  ],
+"allshops":[
+        {
+          "id":"001001",
+          "shopname":"外婆卤肉饭",
+          "head":"static/img/p3.png",
+          "price":50,
+          "buycount":90,
+          "evaluate":"食材新鲜",
+          "distance":"33分钟，2.5km",
+          "type":"综合",
+          "isGet":true
+        },
+         {
+          "id":"001002",
+          "shopname":"御黑堂",
+          "head":"static/img/p1.png",
+          "price":59,
+          "buycount":60,
+          "evaluate":"味道不错，包装满意",
+          "distance":"30分钟，2.5km",
+          "type":"综合",
+          "isGet":false
+        },
+        {
+          "id":"001003",
+          "shopname":"焖哥卖个萌",
+          "head":"static/img/p2.png",
+          "price":70,
+          "buycount":120,
+          "evaluate":"挺不错的，食材很新鲜",
+          "distance":"49分钟，5.5km",
+          "type":"综合",
+          "isGet":false
+        },
+        {
+          "id":"002001",
+          "shopname":"川味小炒王",
+          "author":"张三",
+          "head":"static/img/p4.png",
+          "price":90,
+          "buycount":460,
+          "evaluate":"特别好吃味道正宗",
+          "distance":"30分钟，2.5km",
+          "type":"距离",
+          "isGet":true
+        },
+        {
+          "id":"002002",
+          "shopname":"泰熙家",
+          "author":"张三",
+          "head":"static/img/p5.png",
+          "price":120,
+          "buycount":980,
+          "evaluate":"份量很足，下次还会关顾",
+          "distance":"38分钟，3.5km",
+          "type":"距离",
+          "isGet":true
+        },
+        {
+          "id":"002003",
+          "shopname":"王菊菜馆",
+          "head":"static/img/p7.png",
+          "price":20,
+          "buycount":60,
+          "evaluate":"味道超赞，吃的很满足",
+          "distance":"16分钟，1.5km",
+          "type":"距离",
+          "isGet":false 
+        },
+        {
+          "id":"003001",
+          "shopname":"御黑堂",
+          "head":"static/img/p1.png",
+          "price":59,
+          "buycount":60,
+          "evaluate":"味道不错，包装满意",
+          "distance":"30分钟，2.5km",
+          "type":"销量",
+          "isGet":false
+        },
+        {
+          "id":"003002",
+          "shopname":"王菊菜馆",
+          "head":"static/img/p7.png",
+          "price":20,
+          "buycount":80,
+          "evaluate":"味道超赞，吃的很满足",
+          "distance":"16分钟，1.5km",
+          "type":"销量",
+          "isGet":true
+        },
+        {
+          "id":"003003",
+          "shopname":"苏福记",
+          "head":"static/img/p6.png",
+          "price":30,
+          "buycount":50,
+          "evaluate":"服务态度很好，产品质量很好",
+          "distance":"26分钟，2.0km",
+          "type":"销量",
+          "isGet":true
+        }
+        
+],
+"ziqu":[
+  {
+    "id":"001001",
+    "shopname":"外婆卤肉饭",
+    "head":"static/img/p3.png"
+  },
+   {
+    "id":"001002",
+    "shopname":"御黑堂",
+    "head":"static/img/p1.png"
+  },
+  {
+    "id":"001003",
+    "shopname":"焖哥卖个萌",
+    "head":"static/img/p2.png"
+  },
+  {
+    "id":"002001",
+    "shopname":"川味小炒王",
+    "author":"张三",
+    "head":"static/img/p4.png"
+  },
+  {
+    "id":"002002",
+    "shopname":"泰熙家",
+    "author":"张三",
+    "head":"static/img/p5.png"
+  },
+  {
+    "id":"002003",
+    "shopname":"王菊菜馆",
+    "head":"static/img/p7.png"
+  },
+  {
+    "id":"003001",
+    "shopname":"御黑堂",
+    "head":"static/img/p1.png"
+  },
+  {
+    "id":"003002",
+    "shopname":"王菊菜馆",
+    "head":"static/img/p7.png"
+  },
+  {
+    "id":"003003",
+    "shopname":"苏福记",
+    "head":"static/img/p6.png"
+  }
+  
+],
+  "alllbt":[{
+      "lbting":"static/img/banner1.jpg"
+  },
+  {
+      "lbting":"static/img/banner2.jpg"
+  },
+  {
+      "lbting":"static/img/banner3.jpg"
+  },
+  {
+      "lbting":"static/img/banner4.jpg"
+  },
+  {
+    "lbting":"static/img/banner5.jpg"
+  },
+  {
+    "lbting":"static/img/banner6.jpg"
+  },
+  {
+    "lbting":"static/img/banner7.jpg"
+  }
+],
+  "headlist":[{
+    "src":"static/img/b3.jpg",
+    "name":"汉斯小木屋果味啤酒508ml",
+    "price":21.9
+  }
+  ,{
+    "src":"static/img/b4.jpg",
+    "name":"附件蜜柚1个1300g",
+    "price":45.3
+  },{
+    "src":"static/img/b5.jpg",
+    "name":"康师傅金汤肥牛面五包入111g*5",
+    "price":13.1
+  },{
+    "src":"static/img/b6.jpg",
+    "name":"百世可乐sleek330ml",
+    "price":31.0
+  },{
+    "src":"static/img/b7.jpg",
+    "name":"百世可乐sleek330ml",
+    "price":4.67
+  },{
+    "src":"static/img/b8.jpg",
+    "name":"附件蜜柚1个1300g",
+    "price":8.90
+  }
+],
+    "user_address":[
+        {
+            "id" : 1,
+            "address" : "北京圆明园"
+        }
+    ],
+    "user_info":
+    {
+            "username" : "27ee27xxxx",
+            "mobile" : "1008611",
+            "sex": "1",
+            "pic": "https://img.itsk.com/itkdx/attachment/block/51/519e42c3f768f3eedf9b91e86042ae00.jpg",
+            "token": "xxxxxxxxxxx",
+            "user_token": "xxxxxx"
+    },
+    "country":[
+        {
+            "id":1,
+            "name":"中国",
+            "pid":0
+        },
+        {
+            "id": 2,
+            "name": "BeiJing",
+            "pid":1
+        }
+    ],
+    "city": [
+        {
+            "id": 2,
+            "name": "BeiJing",
+            "pid":1
+        }
+    ],
+    "pay_type":[
+        {"alipay":"支付表"}
+    ],
+    "canju_type":[
+        {"0":"支付宝"},
+        {"1":"微信"}
+    ],
+    "resName":[
+        {"restaurantName":"外婆菜"},
+        {"restaurantName":"外菜"}
+    ],
+    "food_list":[
+        {
+            "photoSrc":"static/img/hamburger.png",
+            "title":"柠檬绿茶1",
+            "save_type": "常温",
+            "num" : "X 1",
+            "price": "3.1"
+        },
+        {
+            "photoSrc":"static/img/hamburger.png",
+            "title":"柠檬青茶2",
+            "save_type": "常温",
+            "num" : "X 1",
+            "price": "5.2"
+        },
+        {
+            "photoSrc":"static/img/hamburger.png",
+            "title":"柠檬青茶3",
+            "save_type": "常温",
+            "num" : "X 1",
+            "price": "5.2"
+        },
+        {
+            "photoSrc":"static/img/hamburger.png",
+            "title":"柠檬青茶4",
+            "save_type": "常温",
+            "num" : "X 1",
+            "price": "5.2"
+        }
+    ],
+    "hosrtiy":[
+      {
+              "id":"878911",
+              "name":"一品香",
+              "pice":44,
+              "img":"static/img/p1.png",
+              "time":"2018-12-2",
+              "ifwan":"退款/售后",
+              "ifxia":"已完成"
+          },
+          {
+              "id":"878912",
+              "name":"一品香火锅",
+              "pice":44,
+              "img":"static/img/p1.png",
+              "time":"2018-12-2",
+              "ifwan":"待付款",
+              "ifxia":"已完成"
+          },
+          {
+              "id":"878913",
+              "name":"一品香",
+              "pice":45,
+              "img":"static/img/p1.png",
+              "time":"2018-13-2",
+              "ifwan":"待评价",
+              "ifxia":"已完成"
+          },
+          {
+              "id":"878914",
+              "name":"一品香火锅",
+              "pice":44,
+              "img":"static/img/p1.png",
+              "time":"2018-12-2",
+              "ifwan":"待使用",
+              "ifxia":"已取消"
+          },
+          {
+              "id":"878915",
+              "name":"一品香火锅",
+              "pice":44,
+              "img":"static/img/p1.png",
+              "time":"2018-12-2",
+              "ifwan":"待使用",
+              "ifxia":"已取消"
+          }
+      ],
+      "types":[
+        {
+            "id":"002",
+            "name":"待付款"
+        },
+        {
+            "id":"003",
+            "name":"待使用"
+        },
+        {
+            "id":"004",
+            "name":"待评价"
+        },
+        {
+            "id":"005",
+            "name":"退款/售后"
+        }
+    ],
+    "goodsall":{
+      "001001":[
+          {
+              "gid":"001",
+              "goodname":"牛肉面1",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"002",
+              "goodname":"牛肉面2",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"003",
+              "goodname":"牛肉面3",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          }  
+      ],
+      "001002":[
+          {
+              "gid":"001",
+              "goodname":"猪头肉1",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"002",
+              "goodname":"猪头肉2",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"003",
+              "goodname":"猪头肉3",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          }  
+      ],
+      "001003":[
+          {
+              "gid":"001",
+              "goodname":"麻辣烫1",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"002",
+              "goodname":"麻辣烫2",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"003",
+              "goodname":"麻辣烫3",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          } 
+      ],
+      "001004":[
+          {
+              "gid":"001",
+              "goodname":"烧烤1",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"002",
+              "goodname":"烧烤2",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          },
+          {
+              "gid":"003",
+              "goodname":"烧烤3",
+              "price":45,
+              "photo":"static/img/p1.png",
+              "row":"牛肉，小麦，油，面",
+              "count":"1"
+          } 
+      ]
+  },
+  "indexallshops":[
+    {
+      "id":"001001",
+      "shopname":"外婆卤肉饭",
+      "head":"static/img/p3.png",
+      "price":50,
+      "buycount":90,
+      "evaluate":"食材新鲜",
+      "distance":"33分钟，2.5km",
+      "type":"综合",
+      "isGet":true,
+      "grade":"4.7",
+      "startpic":"22",
+      "delivery":"22",
+      "success":"330"
+    },
+     {
+      "id":"001002",
+      "shopname":"御黑堂",
+      "head":"static/img/p1.png",
+      "price":59,
+      "buycount":90,
+      "evaluate":"食材新鲜",
+      "distance":"33分钟，2.5km",
+      "type":"综合",
+      "isGet":true,
+      "grade":"4.7",
+      "startpic":"22",
+      "delivery":"22",
+      "success":"330"
+    },
+    {
+      "id":"001003",
+      "shopname":"焖哥卖个萌",
+      "head":"static/img/p2.png",
+      "price":70,
+      "buycount":90,
+      "evaluate":"食材新鲜",
+      "distance":"33分钟，2.5km",
+      "type":"综合",
+      "isGet":true,
+      "grade":"4.7",
+      "startpic":"22",
+      "delivery":"22",
+      "success":"330"
+    },
+    {
+      "id":"001004",
+      "shopname":"川味小炒王",
+      "author":"张三",
+      "head":"static/img/p4.png",
+      "price":90,
+      "buycount":90,
+      "evaluate":"食材新鲜",
+      "distance":"33分钟，2.5km",
+      "type":"综合",
+      "isGet":true,
+      "grade":"4.7",
+      "startpic":"22",
+      "delivery":"22",
+      "success":"330"
+    }     
+],
+"shopsoneshopsid":[
+{
+"id":"001001",
+"shopname":"外婆卤肉饭",
+"head":"static/img/p3.png",
+"price":50,
+"buycount":90,
+"evaluate":"食材新鲜",
+"distance":"33分钟，2.5km",
+"type":"综合",
+"isGet":true,
+"grade":"4.7",
+"startpic":"22",
+"delivery":"22",
+"success":"330"
+},
+{
+"id":"001002",
+"shopname":"御黑堂",
+"head":"static/img/p1.png",
+"price":59,
+"buycount":90,
+"evaluate":"食材新鲜",
+"distance":"33分钟，2.5km",
+"type":"综合",
+"isGet":true,
+"grade":"4.7",
+"startpic":"22",
+"delivery":"22",
+"success":"330"
+},
+{
+"id":"001003",
+"shopname":"焖哥卖个萌",
+"head":"static/img/p2.png",
+"price":70,
+"buycount":90,
+"evaluate":"食材新鲜",
+"distance":"33分钟，2.5km",
+"type":"综合",
+"isGet":true,
+"grade":"4.7",
+"startpic":"22",
+"delivery":"22",
+"success":"330"
+},
+{
+"id":"001004",
+"shopname":"川味小炒王",
+"author":"张三",
+"head":"static/img/p4.png",
+"price":90,
+"buycount":90,
+"evaluate":"食材新鲜",
+"distance":"33分钟，2.5km",
+"type":"综合",
+"isGet":true,
+"grade":"4.7",
+"startpic":"22",
+"delivery":"22",
+"success":"330"
+}     
+]
+}
